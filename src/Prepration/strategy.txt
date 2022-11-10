@@ -1,0 +1,80 @@
+
+Concept of Application:
+
+Requirements:
+
+There are total 3 screens in application:
+1.) Login Screen
+2.) Home Screen
+3.) Favourites Screen
+
+Login Screen:
+    Input By User: Email, Password
+    Validation: Validated on the fixed email and password.
+    result: If user enter correct email and password then it will redirect to Home Screen otherwise it will show error message.
+
+Home Screen:
+    show the list of users with their details using random user api
+
+Favourites Screen:
+    show the list of users which are added in favourites by user.
+
+Questions Answers:
+    a.) What does our homework mainly examine?
+        It mainly examine the knowledge of Industry standard coding practices, design patterns, and architecture.        
+        It also exammines the capability of the candidate to write clean, maintainable, and testable code using redux and react hooks.
+        As the test containes the real world problems so It checks the following skills:
+            1.) Flatlist with large dataset (Usage of useCallback or useMemo hook)
+            2.) Pagination  
+            3.) Redux   
+            4.) React Hooks    
+    b.) Which development standard do you follow?
+    My approach to solve the problem:
+        -Before starting the design and development, I have read the problem statement and understand the  requirements.
+        -Based on that I will create a redux logic first on paper and then I will start the development.
+        -I use the reusable components, constants and common styles.
+    
+    c.) Have you met any difficulties, and how did you solve them?
+        No, I have not faced any difficulties while coding the application. 
+
+    d.) Do you have any advice for our homework?
+        No, but the project examines the knowledge of the candidate and it is good to have a test like this.
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
